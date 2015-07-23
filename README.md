@@ -4,7 +4,7 @@ Fluxible Counter is a minimal example of an [isomorphic/universal](https://mediu
 
 ## Get Started
 
-Run `npm run dev` or `npm run build && npm run start` for the development (hot loaded) or production (minified) builds, respectively, then navigate to your *localhost:3000*.
+Run `npm install` followed by `npm run dev` or `npm run build && npm run start` for the development (hot loaded) or production (minified) builds, respectively, then navigate to your *localhost:3000*.
 
 
 ## Todo
